@@ -1,2 +1,41 @@
 hrproject.sql
 file includes a introductory exploration of a kaggle datase into how and why people are terminated. Trying to tell a story of what contributes to termination. This also displays intermediate sql skills
+ 
+ The dataset:
+ 
+ Employee_Name	
+ EmpID	
+ MarriedID	- 1 for married
+ MaritalStatusID	- numbers associated with single, married, divorced, widowed, separated
+ GenderID	- 0 for male, 1 for female
+ EmpStatusID	
+ DeptID	
+ PerfScoreID	
+ FromDiversityJobFairID	 - 0 or 1 if they were hired from a diversity fair
+ Salary 	
+ Termd	- Termination id; 1 for if they were fired
+ PositionID	
+ Position_	
+ State	
+ Zip	
+ DOB	
+ Sex	
+ MaritalDesc	
+ CitizenDesc	
+ HispanicLatino	
+ RaceDesc	
+ DateofHire	
+ DateofTermination	
+ TermReason	
+ EmploymentStatus	
+ Department	
+ ManagerName	
+ ManagerID	
+ RecruitmentSource	
+ PerformanceScore	
+ EngagementSurvey	
+ EmpSatisfaction	
+ SpecialProjectsCount	
+ LastPerformanceReview_Date	
+ DaysLateLast30	- number of days late
+ Absences - days any employee was abscent
